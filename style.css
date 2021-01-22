@@ -1,0 +1,133 @@
+
+.green{
+    width: 500px;
+    height: 300px;
+    border: 4px black solid;
+    background-color: green;
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+
+.white{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute; 
+    top: 250px;
+    left: 585px;
+}
+
+.rec{
+    height: 300px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 204px;
+    left: 404px;
+}
+
+.circle{
+    position: absolute;
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    top: 228px;
+    left: 606px;
+    border-radius: 50%;
+}
+
+.star1{
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-right: 30px solid rgb(255, 255, 255);
+    border-bottom: 10px solid transparent;
+    top: 322px;
+    left: 656px;
+    position: absolute;
+}
+
+.star2{
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 30px solid rgb(255, 255, 255);
+    top: 291px;
+    left: 685px;
+    position: absolute;
+}
+
+.star3{
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-left: 30px solid rgb(255, 255, 255);
+    border-bottom: 10px solid transparent;
+    top: 322px;
+    left: 705px;
+    position: absolute;
+}
+
+.star4{
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 30px solid rgb(255, 255, 255);
+    position: absolute;
+    top: 342px;
+    left: 686px;
+}
+
+.star5{
+    width: 27px;
+    height: 29px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 317px;
+    left: 682px;
+}
+
+/* .star6{
+    width: 0;
+    height: 0;
+    border-bottom: 25px solid rgb(255, 255, 255);
+    border-left: 25px solid transparent;
+    position: absolute;
+    top: 329px;
+    left: 690px;
+}
+
+.star7{
+    width: 0;
+    height: 0;
+    border-bottom: 25px solid rgb(255, 255, 255);
+    border-right: 25px solid transparent;
+    position: absolute;
+    top: 329px;
+    left: 675px;
+}
+
+.star8{
+    width: 0;
+    height: 0;
+    border-top: 25px solid rgb(255, 255, 255);
+    border-right: 25px solid transparent;
+    position: absolute;
+    top: 311px;
+    left: 675px;
+}
+
+.star9{
+    width: 0;
+    height: 0;
+    border-top: 25px solid rgb(255, 255, 255);
+    border-left: 25px solid transparent;
+    position: absolute;
+    top: 311px;
+    left: 690px;
+} */
